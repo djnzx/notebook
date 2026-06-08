@@ -1,0 +1,11 @@
+.zshrc:
+
+gitopen() {
+  git remote get-url origin |
+    sed -E '
+      s#^git@([^:]+):#https://\1/#;
+      s#^ssh://git@([^/]+)/#https://\1/#;
+      s#\.git$##
+    ' |
+    xargs -I {} open "{}"
+}

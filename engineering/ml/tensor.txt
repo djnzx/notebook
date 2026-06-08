@@ -1,0 +1,5 @@
+Tensor
+0d - number
+1d - array
+2d - matrix
+3d - cube
