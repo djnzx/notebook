@@ -9,6 +9,6 @@ Dodge Durango SRT restyle
 | 5 | 6DR87TZZAC  | Fender flare - rear right  |      184.01 |     8.00 |
 | 6 | 6DR80TZZAC  | Rocker - right             |      261.43 |    28.57 |
 | 7 | 6DR81TZZAC  | Rocker - left              |      284.99 |          |
-| 8 | 6DQ33TZZAA  | Rear valance (backorder)   |      429.87 |          |
+| 8 | 6DQ33TZZAA  | Rear valance (backorder)   |      429.87 |   105.55 |
 | 9 | 68307817AA  | Rear valance insert        |       80.39 |          |
 |   |             | **Total**                  | **1765.79** |          |

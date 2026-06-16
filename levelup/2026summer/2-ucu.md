@@ -1,6 +1,7 @@
-### AITss-2026
-https://ai.lnu.edu.ua/register
-(120 годин / 4 кредити ECTS)
+https://study.ucu.edu.ua/course/sifr-2026-research-frontiers-in-intelligent-systems-online/lesson/sifr-additional-information
+https://study.ucu.edu.ua/course/sifr-2026-research-frontiers-in-intelligent-systems-online/lesson/topic-summaries
+https://study.ucu.edu.ua/course/sifr-2026-research-frontiers-in-intelligent-systems-online/lesson/topic-l
+
 
 ### SIFR-2026: Research Frontiers in Intelligent Systems. Summer School
 Wed, July 01 – Fri, July 03, 2026
@@ -14,7 +15,6 @@ Mon, June 29, 2026 – registration deadline
 Mon, June 29, 2026 – tuition fee payment deadline
 Wed, July 01, 2026 – summer school starts
 Fri, July 03, 2026 – summer school ends
-
 
 Prof. Vadim Ermolayev, Ph.D., AppS UCU
 Vadim is a professor of of Semantic Technologies and director of Ph.D. Program in Intelligent Systems at AppS UCU. He is also a Honoris Causa Professor of Kherson State University (KSU), the member of ACM and ELLIS.

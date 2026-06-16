@@ -1,5 +1,6 @@
 .zshrc:
 
+```shell
 gitopen() {
   git remote get-url origin |
     sed -E '
@@ -9,3 +10,4 @@ gitopen() {
     ' |
     xargs -I {} open "{}"
 }
+```
