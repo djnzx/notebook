@@ -14,17 +14,17 @@ Primarily Java-focused and language-agnostic titles.
 
 ## Java — Open Access
 
-| #  | Title | Author(s) | Year | Publisher | Link |
-|----|-------|-----------|------|-----------|------|
-| 3  | Introduction to Programming Using Java (9th ed.) | David J. Eck | 2022 | Hobart and William Smith Colleges | https://math.hws.edu/javanotes/ |
-| 4  | Think Java (2nd ed.) | Allen B. Downey, Chris Mayfield | 2020 | O'Reilly / Green Tea Press | https://greenteapress.com/wp/think-java-2e/ |
-| 5  | Think Data Structures | Allen B. Downey | 2017 | O'Reilly / Green Tea Press | https://greenteapress.com/wp/think-data-structures/ |
-| 6  | Open Data Structures (Java edition) | Pat Morin | 2013 | AU Press | https://opendatastructures.org/ods-java/ |
-| 7  | Java, Java, Java: Object-Oriented Problem Solving (3rd ed.) | Ralph Morelli, Ralph Walde | 2017 | Trinity College (open textbook) | https://runestone.academy/ns/books/published/javajavajava/index.html |
-| 8  | Java Programming (MOOC) | University of Helsinki | 2023 | University of Helsinki (open course) | https://java-programming.mooc.fi/ |
-| 9 | Computer Science: An Interdisciplinary Approach | Robert Sedgewick, Kevin Wayne | 2016 | Addison-Wesley | https://introcs.cs.princeton.edu/java/home/ |
+| # | Title                                                       | Author(s)                       | Year | Publisher                            | Link                                                                 |
+|---|-------------------------------------------------------------|---------------------------------|------|--------------------------------------|----------------------------------------------------------------------|
+| 3 | Introduction to Programming Using Java (9th ed.)            | David J. Eck                    | 2022 | Hobart and William Smith Colleges    | https://math.hws.edu/javanotes/                                      |
+| 4 | Think Java (2nd ed.)                                        | Allen B. Downey, Chris Mayfield | 2020 | O'Reilly / Green Tea Press           | https://greenteapress.com/wp/think-java-2e/                          |
+| 5 | Think Data Structures                                       | Allen B. Downey                 | 2017 | O'Reilly / Green Tea Press           | https://greenteapress.com/wp/think-data-structures/                  |
+| 6 | Open Data Structures (Java edition)                         | Pat Morin                       | 2013 | AU Press                             | https://opendatastructures.org/ods-java/                             |
+| 7 | Java, Java, Java: Object-Oriented Problem Solving (3rd ed.) | Ralph Morelli, Ralph Walde      | 2017 | Trinity College (open textbook)      | https://runestone.academy/ns/books/published/javajavajava/index.html |
+| 8 | Java Programming (MOOC)                                     | University of Helsinki          | 2023 | University of Helsinki (open course) | https://java-programming.mooc.fi/                                    |
+| 9 | Computer Science: An Interdisciplinary Approach             | Robert Sedgewick, Kevin Wayne   | 2016 | Addison-Wesley                       | https://introcs.cs.princeton.edu/java/home/                          |
 
-## Java — Paid (Recommended Textbooks)
+## Java — Paid
 
 | # | Title | Author(s) | Year | Publisher | Link |
 |---|-------|-----------|------|-----------|------|
